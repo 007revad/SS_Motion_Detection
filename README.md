@@ -10,6 +10,8 @@
 
 Install older version of Surveillance Station and Advanced Media Eextensions so motion detection and HEVC playback is supported.
 
+This script installs Surveillance Station 9.2.0-11289 and Advanced Media Extensions 3.1.0-3005
+
 ### Download the script
 
 1. Download the latest version _Source code (zip)_ from https://github.com/007revad/SS_Motion_Detection/releases
