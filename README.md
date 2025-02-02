@@ -1,4 +1,4 @@
-# <img src="images/SurveillanceStation_64.png" width="40"> Heading goes here
+# <img src="images/SurveillanceStation_64.png" width="40"> SS Motion Detection
 
 <a href="https://github.com/007revad/REPO_NAME/releases"><img src="https://img.shields.io/github/release/007revad/REPO_NAME.svg"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F007revad%2FREPO_NAME&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
@@ -8,11 +8,11 @@
 
 ### Description
 
-Description goes here
+Install older version of Surveillance Station and Advanced Media Eextensions so motion detection and HEVC playback is supported.
 
 ### Download the script
 
-1. Download the latest version _Source code (zip)_ from https://github.com/007revad/REPO_NAME/releases
+1. Download the latest version _Source code (zip)_ from https://github.com/007revad/SS_Motion_Detection/releases
 2. Save the download zip file to a folder on the Synology.
 3. Unzip the zip file.
 
