@@ -10,7 +10,7 @@ The Surveillance Station icon above is Copyright © 2004-2025 [Synology Inc.](ht
 
 ### Description
 
-Install older version of Surveillance Station and Advanced Media Eextensions so motion detection and HEVC playback is supported.
+Installs older version of Surveillance Station and Advanced Media Extensions so motion detection and HEVC playback is supported.
 
 This script installs Surveillance Station 9.2.0-11289 and Advanced Media Extensions 3.1.0-3005
 
