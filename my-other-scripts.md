@@ -67,6 +67,9 @@
 - **<a href="https://github.com/007revad/Video_Station_for_DSM_722">Video_Station_for_DSM_722</a>**
   - Script to install Video Station in DSM 7.2.2
 
+- **<a href="https://github.com/007revad/SS_Motion_Detection">SS_Motion_Detection</a>**
+  - Installs Surveillance Station and Advanced Media Extensions versions so motion detection and HEVC are supported.
+
 - **<a href="https://github.com/007revad/Synology_Config_Backup">Synology_Config_Backup</a>**
   - Backup and export your Synology DSM configuration.
 
@@ -123,6 +126,9 @@
 
 - **<a href="https://github.com/007revad/Download_Synology_Archive">Download_Synology_Archive</a>**
   - Download all or part of the Synology archive.
+
+- **<a href="https://github.com/007revad/Syno_DSM_Extractor_GUI">Syno_DSM_Extractor_GUI</a>**
+  - Windows GUI for extracting Synology DSM 7 pat files and spk package files.
 
 - **<a href="https://github.com/007revad/ScriptNotify">ScriptNotify</a>**
   - DSM 7 package to allow your scripts to send DSM notifications.
