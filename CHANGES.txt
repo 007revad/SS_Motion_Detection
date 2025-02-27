@@ -1,3 +1,6 @@
+v1.0.1
+- Bug fix. Issue #9
+
 v1.0.0
 - First release.
 - Currently only supports Synology NAS with x86_64, armv7 and armada38x CPUs.

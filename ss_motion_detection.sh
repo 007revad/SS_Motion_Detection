@@ -18,7 +18,7 @@
 # Figure out where package center saves it's settings
 #------------------------------------------------------------------------------
 
-scriptver="v1.0.0"
+scriptver="v1.0.1"
 script=SS_Motion_Detection
 repo="007revad/SS_Motion_Detection"
 scriptname=ss_motion_detection
@@ -481,8 +481,8 @@ if [[ ! -f /etc.defaults/synopackageslimit.conf.bak ]]; then
 fi
 
 # Make DSM let us install the packages we want
-/usr/syno/bin/synosetkeyvalue /etc.defaults/synopackageslimit.conf SurveillanceStation "9.2.1-11380"
-/usr/syno/bin/synosetkeyvalue /etc/synopackageslimit.conf SurveillanceStation "9.2.1-11380"
+/usr/syno/bin/synosetkeyvalue /etc.defaults/synopackageslimit.conf SurveillanceStation "9.2.0-11289"
+/usr/syno/bin/synosetkeyvalue /etc/synopackageslimit.conf SurveillanceStation "9.2.0-11289"
 
 /usr/syno/bin/synosetkeyvalue /etc.defaults/synopackageslimit.conf CodecPack "3.1.0-3005"
 /usr/syno/bin/synosetkeyvalue /etc/synopackageslimit.conf CodecPack "3.1.0-3005"
@@ -518,7 +518,7 @@ else
 fi
 
 # SurveillanceStation
-if ! check_pkg_installed SurveillanceStation && [[ $ss_version != "90.2.1-11380" ]]; then
+if ! check_pkg_installed SurveillanceStation && [[ $ss_version != "90.2.0-11289" ]]; then
     download_pkg SurveillanceStation "9.2.0-11289" "SurveillanceStation-${cputype}-9.2.0-11289.spk"
     package_install "SurveillanceStation-${cputype}-9.2.0-11289.spk" "Surveillance Station"
     package_stop SurveillanceStation "Surveillance Station"
