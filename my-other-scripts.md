@@ -6,8 +6,10 @@
 - [Synology recovery](#synology-recovery)
 - [Other Synology scripts](#other-synology-scripts)
 - [Synology hardware restrictions](#synology-hardware-restrictions)
+- [How To Guides](#how-to-guides)
 - [Synology dev](#synology-dev)
-##
+
+***
 
 ### Plex
 
@@ -28,6 +30,9 @@
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
 
 ### Synology docker
+
+- **<a href="https://github.com/007revad/Synology_Docker_Export">Synology_Docker_export</a>**
+  - Export all Synology Container Manager or Docker containers' settings as json files to your docker shared folder.
 
 - **<a href="https://github.com/007revad/Synology_ContainerManager_IPv6">Synology_ContainerManager_IPv6</a>**
   - Enable IPv6 for Container Manager's bridge network.
@@ -56,6 +61,9 @@
 
 - **<a href="https://github.com/007revad/Synology_DSM_Telnet_Password">Synology_DSM_Telnet_Password</a>**
   - Synology DSM Recovery Telnet Password of the Day generator.
+
+- **<a href="https://github.com/007revad/Syno_DSM_Extractor_GUI">Syno_DSM_Extractor_GUI</a>**
+  - Windows GUI for extracting Synology DSM 7 pat files and spk package files.
  
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
 
@@ -68,7 +76,7 @@
   - Script to install Video Station in DSM 7.2.2
 
 - **<a href="https://github.com/007revad/SS_Motion_Detection">SS_Motion_Detection</a>**
-  - Installs Surveillance Station and Advanced Media Extensions versions so motion detection and HEVC are supported.
+  - Installs previous Surveillance Station and Advanced Media Extensions versions so motion detection and HEVC are supported.
 
 - **<a href="https://github.com/007revad/Synology_Config_Backup">Synology_Config_Backup</a>**
   - Backup and export your Synology DSM configuration.
@@ -87,6 +95,9 @@
 
 - **<a href="https://github.com/007revad/Synology_Download_Station_Chrome_Extension">Synology_Download_Station_Chrome_Extension</a>**
   - Download Station Chrome Extension.
+ 
+- **<a href="https://github.com/007revad/Seagate_lowCurrentSpinup">Seagate_lowCurrentSpinup</a>**
+  - This script avoids the need to buy and install a higher wattage power supply when using multiple large Seagate SATA HDDs.
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
 
@@ -122,6 +133,13 @@
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
 
+### How To Guides
+
+- **<a href="https://github.com/007revad/Synology_SSH_key_setup">Synology_SSH_key_setup</a>**
+  - How to setup SSH key authentication for your Synology.
+
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
+
 ### Synology dev
 
 - **<a href="https://github.com/007revad/Download_Synology_Archive">Download_Synology_Archive</a>**
@@ -134,6 +152,6 @@
   - DSM 7 package to allow your scripts to send DSM notifications.
 
 - **<a href="https://github.com/007revad/DTC_GUI_for_Windows">DTC_GUI_for_Windows</a>**
-  - GUI for DTC.exe for Window.
+  - GUI for DTC.exe for Windows.
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
