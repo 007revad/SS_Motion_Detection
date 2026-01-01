@@ -8,7 +8,9 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    steps:
+    permissions:
+      contents: write  # Grants write permission only for this specific job
+      steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
