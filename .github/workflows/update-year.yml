@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # Grants write permission only for this specific job
-      steps:
+    steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
